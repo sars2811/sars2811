@@ -54,6 +54,8 @@ I am currently pursuing Bachelor of Technology from IIT Roorkee, India. I am a p
 [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sars2811&theme=radical&count_private=true&show_icons=true)](https://github.com/sars2811/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sars2811&theme=radical&layout=compact)](https://github.com/sars2811/)
 
+<img src="https://github.com/sars2811/sars2811/master/devcard.svg" width="400" alt="Sarthak Gupta's Dev Card"/>
+
 
 <!--
 **sars2811/sars2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
