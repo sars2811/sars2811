@@ -54,7 +54,7 @@ I am currently pursuing Bachelor of Technology from IIT Roorkee, India. I am a p
 [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sars2811&theme=radical&count_private=true&show_icons=true)](https://github.com/sars2811/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sars2811&theme=radical&layout=compact)](https://github.com/sars2811/)
 
-<a href="https://app.daily.dev/sars"><img src="https://github.com/sars2811/sars2811/blob/6e9e1ae0eb618bd8b705a3708981f05bdcfece56/devcard.svg" width="400" alt="Sarthak Gupta's Dev Card"/></a>
+<a href="https://app.daily.dev/sars"><img src="https://github.com/sars2811/sars2811/blob/master/devcard.svg" width="400" alt="Sarthak Gupta's Dev Card"/></a>
 
 
 <!--
