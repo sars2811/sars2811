@@ -9,9 +9,9 @@
 I am currently pursuing Bachelor of Technology from IIT Roorkee, India. I am a part of [MDG](https://github.com/mdgspace/) in IIT Roorkee.
 
 
-- 🔭 I’m currently working on [Delta](https://github.com/mdgspace/delta-flutter).
-- 🌱 I’m currently exploring Django, Machine Learning and Game development.
-- 💻 I'm currently playing Rocket League, Minecraft
+- 🔭 I’m currently working on [Intention-Tube](https://github.com/sars2811/intention-tube).
+- 🌱 I’m currently exploring AI, Game development.
+- 💻 I'm currently playing CS2, Deep Rock Galatic, 
 
 ---
 ### Technologies I Love and Use :-
